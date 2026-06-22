@@ -1,1 +1,0 @@
-{"name":"autonomous-learning-app","version":"1.0.0","scripts":{"start":"node src/server.js","dev":"node src/server.js"},"dependencies":{"express":"latest"},"devDependencies":{}}
